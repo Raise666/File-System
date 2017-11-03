@@ -28,5 +28,5 @@ g.目录结构为两级目录结构，采用线性搜索。
         4#-120#：数据块，用于存放文件内容
         
  功能如下：
- ![image](https://github.com/Raise666/File-System/images/function.JPG)
+ ![image](https://github.com/Raise666/File-System/raw/master/images/function.jpg)
 
