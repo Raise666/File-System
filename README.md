@@ -31,3 +31,8 @@ g.目录结构为两级目录结构，采用线性搜索。
  
  ![image](https://github.com/Raise666/File-System/blob/master/images/function.JPG)
  
+ 
+ 界面效果图：
+ 
+ ![image](https://github.com/Raise666/File-System/blob/master/images/interface.JPG)
+ 
